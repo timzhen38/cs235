@@ -1,0 +1,12 @@
+---
+:id: 19713784
+:submitters:
+- :name: Tim Zhen
+  :email: tim.zhen38@myhunter.cuny.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2019-09-05 19:13:42.228460000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2019-09-05 12:13:42.228460000 Z
+:status: processed
+:score: 100.0
